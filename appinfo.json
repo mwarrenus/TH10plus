@@ -1,0 +1,34 @@
+{
+    "appKeys": {
+        "white_on_black": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Mark W",
+    "longName": "TH10-Date_2.0+white",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/GillSans-subset.ttc",
+                "name": "FONT_GILLSANS_40",
+                "type": "font"
+            },
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "TH10-Date_2.0+white",
+    "uuid": "f45d84de-b62b-11e4-a71e-12e3f512a338",
+    "versionCode": 1,
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
